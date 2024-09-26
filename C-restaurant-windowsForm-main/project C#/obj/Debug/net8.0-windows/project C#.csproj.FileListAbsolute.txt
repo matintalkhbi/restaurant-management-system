@@ -1,0 +1,31 @@
+C:\Users\Matin\source\repos\project C#\project C#\obj\Debug\net8.0-windows\project_C_.MainForm.resources
+C:\Users\Matin\source\repos\project C#\project C#\obj\Debug\net8.0-windows\project C#.csproj.GenerateResource.cache
+C:\Users\Matin\source\repos\project C#\project C#\obj\Debug\net8.0-windows\project C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matin\source\repos\project C#\project C#\obj\Debug\net8.0-windows\project C#.AssemblyInfoInputs.cache
+C:\Users\Matin\source\repos\project C#\project C#\obj\Debug\net8.0-windows\project C#.AssemblyInfo.cs
+C:\Users\Matin\source\repos\project C#\project C#\obj\Debug\net8.0-windows\project C#.csproj.CoreCompileInputs.cache
+C:\Users\Matin\source\repos\project C#\project C#\bin\Debug\net8.0-windows\project C#.exe
+C:\Users\Matin\source\repos\project C#\project C#\bin\Debug\net8.0-windows\project C#.deps.json
+C:\Users\Matin\source\repos\project C#\project C#\bin\Debug\net8.0-windows\project C#.runtimeconfig.json
+C:\Users\Matin\source\repos\project C#\project C#\bin\Debug\net8.0-windows\project C#.dll
+C:\Users\Matin\source\repos\project C#\project C#\bin\Debug\net8.0-windows\project C#.pdb
+C:\Users\Matin\source\repos\project C#\project C#\obj\Debug\net8.0-windows\project C#.dll
+C:\Users\Matin\source\repos\project C#\project C#\obj\Debug\net8.0-windows\refint\project C#.dll
+C:\Users\Matin\source\repos\project C#\project C#\obj\Debug\net8.0-windows\project C#.pdb
+C:\Users\Matin\source\repos\project C#\project C#\obj\Debug\net8.0-windows\project C#.genruntimeconfig.cache
+C:\Users\Matin\source\repos\project C#\project C#\obj\Debug\net8.0-windows\ref\project C#.dll
+C:\Users\Matin\source\repos\project C#\project C#\obj\Debug\net8.0-windows\project_C_.RegisterForm.resources
+C:\Users\Matin\source\repos\project C#\project C#\obj\Debug\net8.0-windows\project_C_.HomeForm.resources
+C:\Users\Matin\source\repos\project C#\project C#\obj\Debug\net8.0-windows\project_C_.LoginForm.resources
+C:\Users\Matin\source\repos\project C#\project C#\obj\Debug\net8.0-windows\project_C_.CustomerDefinitionForm.resources
+C:\Users\Matin\source\repos\project C#\project C#\obj\Debug\net8.0-windows\project_C_.CustomerSearchForm.resources
+C:\Users\Matin\source\repos\project C#\project C#\obj\Debug\net8.0-windows\project_C_.FoodDefinitionForm.resources
+C:\Users\Matin\source\repos\project C#\project C#\obj\Debug\net8.0-windows\project_C_.FoodMenuForm.resources
+C:\Users\Matin\source\repos\project C#\project C#\obj\Debug\net8.0-windows\project_C_.OrderForm.resources
+C:\Users\Matin\source\repos\project C#\project C#\obj\Debug\net8.0-windows\project_C_.SearchEditForm.resources
+C:\Users\Matin\source\repos\project C#\project C#\obj\Debug\net8.0-windows\project_C_.InvoiceForm.resources
+C:\Users\Matin\source\repos\project C#\project C#\obj\Debug\net8.0-windows\project_C_.ReportsForm.resources
+C:\Users\Matin\Desktop\C# project\main\project C#\project C#\obj\Debug\net8.0-windows\project C#.csproj.AssemblyReference.cache
+C:\Users\Matin\Desktop\C# project\main\project C#\project C#\obj\Debug\net8.0-windows\project C#.dll
+C:\Users\Matin\Desktop\C# project\main\project C#\project C#\obj\Debug\net8.0-windows\refint\project C#.dll
+C:\Users\Matin\Desktop\C# project\main\project C#\project C#\obj\Debug\net8.0-windows\project C#.pdb
